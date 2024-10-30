@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: blanchedalmond;
+    height: 150px;
+    font-size: 2.5em;
+}
+
+footer {
+    background-color: blanchedalmond;
+    height: 150px;
+    border: 2px solid red;
+}
+
+main {
+    margin: 50px;
+    background-color: #ccf5ff;
+    padding-bottom: 50px;
+}
+
+section {
+    margin: 80px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+#competences {
+    display: flex;
+    color: hotpink;
+    justify-content: space-evenly;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+}
